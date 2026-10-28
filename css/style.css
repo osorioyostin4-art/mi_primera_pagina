@@ -2,6 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;   
 }
 header{
     text-align: center;
@@ -19,11 +20,11 @@ p{
 .numero{
     border-radius: 10px;
     border: 1px solid black;
-    margin-top: 20px;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin:0 auto;
+    width: 400px;
     padding: 30px;
     text-align: center;
+   
 
 }
 #entrada1{
@@ -34,9 +35,8 @@ p{
 .imagenes{
      border-radius: 10px;
     border: 1px solid black;
-    margin-top: 20px;
-    margin-left: 200px;
-    margin-right: 200px;
+    width: 400px;
+    margin: 0 auto;
     padding: 30px;
     text-align: center;
 
@@ -53,9 +53,8 @@ p{
     margin-top: 15px;
 }
 button{
-    margin-top: 30px;
-    margin-bottom: 50px;
-    margin-left: 585px;
+    margin: 0 auto;
+   
     border-radius: 20px;
     border: none;
     padding: 15px;
